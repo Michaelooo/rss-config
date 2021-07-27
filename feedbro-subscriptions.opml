@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" 
+            xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="张鑫旭-鑫空间-鑫生活" title="张鑫旭-鑫空间-鑫生活" type="rss" 
+            xmlUrl="https://www.zhangxinxu.com/wordpress/feed/" htmlUrl="https://www.zhangxinxu.com/wordpress"/>
+      <outline text="唐巧的博客" title="Untitled feed" type="rss" 
+            xmlUrl="https://www.xiabingbao.com/atom.xml"/>
+      <outline text="Phodal - A Growth Engineer" title="Phodal - A Growth Engineer" type="rss" 
+            xmlUrl="https://www.phodal.com/blog/feeds/rss/" htmlUrl="http://www.phodal.com/blog/"/>
+      <outline text="云音乐大前端专栏" title="云音乐大前端专栏" type="rss" 
+            xmlUrl="https://musicfe.dev/rss" htmlUrl="https://musicfe.dev"/>
+      <outline text="AlloyTeam" title="AlloyTeam" type="rss" 
+            xmlUrl="http://www.alloyteam.com/feed/" htmlUrl="http://www.alloyteam.com"/>
+      <outline text="奇舞周刊" title="奇舞周刊" type="rss" 
+            xmlUrl="https://weekly.75.team/rss" htmlUrl="https://weekly.75.team"/>
+      <outline text="Taobao FED | 淘系前端团队" title="Taobao FED | 淘系前端团队" type="rss" 
+            xmlUrl="https://fed.taobao.org/atom.xml" htmlUrl="https://fed.taobao.org"/>
+      <outline text="字节跳动技术团队官方博客" title="字节跳动技术团队官方博客" type="rss" 
+            xmlUrl="https://blog.csdn.net/ByteDanceTech/rss/list" htmlUrl="https://blog.csdn.net/ByteDanceTech"/>
+      <outline text="美团技术团队" title="美团技术团队" type="rss" 
+            xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"/>
+      <outline text="Aotu.io" title="Aotu.io" type="rss" 
+            xmlUrl="https://aotu.io/atom.xml"/>
+      <outline text="面向信仰编程" title="面向信仰编程" type="rss" 
+            xmlUrl="https://draveness.me/feed.xml" htmlUrl="https://draveness.me/"/>
+      <outline text="Node Weekly" title="Node Weekly" type="rss" 
+            xmlUrl="https://cprss.s3.amazonaws.com/nodeweekly.com.xml" htmlUrl="https://nodeweekly.com/"/>
+      <outline text="JavaScript Weekly" title="JavaScript Weekly" type="rss" 
+            xmlUrl="https://cprss.s3.amazonaws.com/javascriptweekly.com.xml" htmlUrl="https://javascriptweekly.com/"/>
+      <outline text="Dan Abramov&#39;s Overreacted Blog RSS Feed" title="Dan Abramov&#39;s Overreacted Blog RSS Feed" type="rss" 
+            xmlUrl="https://overreacted.io/rss.xml" htmlUrl="https://overreacted.io"/>
+</body>
+</opml>
